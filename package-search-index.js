@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.github.augusto_sant.chirp"},{"l":"com.github.augusto_sant.chirp.examples"}];updateSearchResults();
